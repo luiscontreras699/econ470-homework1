@@ -1,0 +1,6 @@
+﻿data/
+*.RData
+*.Rhistory
+__pycache__/
+.DS_Store
+Thumbs.db
